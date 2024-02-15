@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraghira&label=Profile%20views&color=0e75b6&style=flat" alt="chiraghira" /> </p>
 
-- 🌱 I’m currently learning **Java,Python,ML,DSA and real world project**
+- 🌱 I’m currently learning **Java,Python,ML,DSA,Data Analysis and real world project**
 
 - 👯 I’m looking to collaborate on **Open Source Project,DSA**
 
