@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java,SpringBoot,Servlet**
 
-- 📫 How to reach me **chiraghira39@gnail.com**
+- 📫 How to reach me **chiraghira39@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
